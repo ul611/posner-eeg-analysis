@@ -15,5 +15,3 @@ Python 3.11 | MNE-Python | scipy | pandas | seaborn
 pip install -r requirements.txt
 jupyter notebook notebooks/01_preprocessing.ipynb
 ```
-
-See protocol PDF for full methodology.
